@@ -1,5 +1,11 @@
 ## Dashboard pagina voor opdrachten van Sem Vriesema 22SD-B
 
+### Deps:
+docker engine
+docker compose
+git
+
+
 ### Building:
 
 
