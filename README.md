@@ -19,6 +19,10 @@ http://0.0.0.0:80
 ```
 
 
+## The contents of this repo are also hosted over at:
+`http://nodes.pythaxprivate.net:51001/`
+
+
 
 #### For questions: svriesema@pythaxprivate.net
 
