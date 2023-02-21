@@ -3,6 +3,7 @@
 ### Deps:
 - docker engine
 - docker compose
+- debian image for docker (install by running `docker pull debian:latest`)
 
 
 ### Building:
