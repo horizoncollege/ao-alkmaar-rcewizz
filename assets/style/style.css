@@ -1,0 +1,19 @@
+#column_container {
+    border-radius: 2px;
+    padding: 50px;
+    background-color: grey;
+}
+
+
+#image_asset {
+    border-radius: 25px;
+    width: 250px;
+    height: 250px;
+}
+
+
+body {
+    padding: 25px;
+}
+
+
